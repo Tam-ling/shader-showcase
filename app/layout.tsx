@@ -21,9 +21,9 @@ const instrumentSerif = Instrument_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "U-Fill Academy",
+  description: "Created by LW_19",
+  generator: "Next.js",
 }
 
 export default function RootLayout({
